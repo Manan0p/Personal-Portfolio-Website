@@ -2,10 +2,6 @@
 
 This is a modern, single-page portfolio website designed for creative web developers. It's built with HTML, Tailwind CSS, and a little bit of JavaScript to create a visually appealing and interactive experience. The design is clean, professional, and fully responsive, ensuring it looks great on all devices.
 
-## Live Demo
-
-[Link to your live portfolio website here]
-
 ## Features
 
 -   **Modern & Clean Design:** A sleek, dark-themed UI with a unique aurora background effect.
